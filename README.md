@@ -6,7 +6,7 @@ collocation. Included in this family of methods are standard finite differences,
 Hermite, Laguerre, Fourier and Sinc basis functions, and multidimensional finite difference methods with isotropic error.
 
 * [Introduction](http://nbviewer.ipython.org/github/ronojoy/pyddx-lectures/blob/master/pyddx-Lecture1-Introduction.ipynb)
-* [Differentiation matrices](https://github.com/ronojoy/pyddx-lectures/blob/master/pyddx-Lecture2-Polynomial-Interpolation.ipynb)
+* [Differentiation matrices](http://nbviewer.ipython.org/github/ronojoy/pyddx-lectures/blob/master/pyddx-Lecture2-Polynomial-Interpolation.ipynb)
 * Polynomial differentiation matrices
 * Bounded spaces : Chebyshev differentiation matrices
 * Semi-bounded spaces : Hermite differentiation matrices 
